@@ -11,16 +11,16 @@ const STORY = {
       "title": "Before Beginning",
       "text": "دايما كنت بحبك ، من اول يوم شوفتك فيه وانا اعجبت بيكي \nاول يوم جيتيلي الصيدلية .. فتحت جروب ميديكال ريب علي الفيس وسرشت علي اسمك وجبت اكونتك وعرفت انتي منين \nوانتي بعدها ب 4 ايام انتي بعتيلي مسج ومن يومها وانا بفكر فيكي عشان خطفتيني ياسوسو \nافتحي الاسكرين شوتس لكل واحده وبصي علي التواريخ عشان تعرفي اني دايما كنت بفكر فيكي 💙✨",
       "photos": [
-        "images/page-01-photo-001.jpeg",
-        "images/page-01-photo-002.jpeg",
-        "images/page-01-photo-003.png",
-        "images/page-01-photo-004.png",
-        "images/page-01-photo-005.png",
-        "images/page-01-photo-006.png",
-        "images/page-01-photo-007.png",
-        "images/page-01-photo-008.png",
-        "images/page-01-photo-009.png",
-        "images/page-01-photo-010.png"
+        "page-01-photo-001.jpeg",
+        "page-01-photo-002.jpeg",
+        "page-01-photo-003.png",
+        "page-01-photo-004.png",
+        "page-01-photo-005.png",
+        "page-01-photo-006.png",
+        "page-01-photo-007.png",
+        "page-01-photo-008.png",
+        "page-01-photo-009.png",
+        "page-01-photo-010.png"
       ]
     },
     {
@@ -29,14 +29,14 @@ const STORY = {
       "title": "Day 250 Night 💙",
       "text": "اسيبك مع الصور ",
       "photos": [
-        "images/page-02-photo-011.jpeg",
-        "images/page-02-photo-012.jpeg",
-        "images/page-02-photo-013.jpeg",
-        "images/page-02-photo-014.jpeg",
-        "images/page-02-photo-015.jpeg",
-        "images/page-02-photo-016.jpeg",
-        "images/page-02-photo-017.jpeg",
-        "images/page-02-photo-018.jpeg"
+        "page-02-photo-011.jpeg",
+        "page-02-photo-012.jpeg",
+        "page-02-photo-013.jpeg",
+        "page-02-photo-014.jpeg",
+        "page-02-photo-015.jpeg",
+        "page-02-photo-016.jpeg",
+        "page-02-photo-017.jpeg",
+        "page-02-photo-018.jpeg"
       ]
     },
     {
@@ -80,11 +80,11 @@ const STORY = {
       "title": "اول هديه مني انا ",
       "text": "اشتري خاطرك بالدنيا وما فيها 💙💙\n\nورقه فريسكو كافيه اللي ف ضهر موبايلك 💙💙",
       "photos": [
-        "images/page-08-photo-019.jpeg",
-        "images/page-08-photo-020.jpeg",
-        "images/page-08-photo-021.jpeg",
-        "images/page-08-photo-022.jpeg",
-        "images/page-08-photo-023.jpeg"
+        "page-08-photo-019.jpeg",
+        "page-08-photo-020.jpeg",
+        "page-08-photo-021.jpeg",
+        "page-08-photo-022.jpeg",
+        "page-08-photo-023.jpeg"
       ]
     },
     {
@@ -93,8 +93,8 @@ const STORY = {
       "title": "اول هديه منك ف الريلشن بقي 😂💙",
       "text": "احلي مج وماوس ف الدنيا كلها 💙💙",
       "photos": [
-        "images/page-09-photo-024.jpeg",
-        "images/page-09-photo-025.jpeg"
+        "page-09-photo-024.jpeg",
+        "page-09-photo-025.jpeg"
       ]
     },
     {
@@ -103,7 +103,7 @@ const STORY = {
       "title": "المعادي ",
       "text": "حطيته عشان دا خلانا نقرب جدااا بعدها .. ",
       "photos": [
-        "images/page-10-photo-026.jpeg"
+        "page-10-photo-026.jpeg"
       ]
     },
     {
@@ -112,9 +112,9 @@ const STORY = {
       "title": "طوووخ .. ( Day 50 )",
       "text": "مسيبتنيش زعلان وجيتيلي طوخ وجبتيلي فطار وانا اديتك الظرف 💙💙",
       "photos": [
-        "images/page-11-photo-027.jpeg",
-        "images/page-11-photo-028.jpeg",
-        "images/page-11-photo-029.jpeg"
+        "page-11-photo-027.jpeg",
+        "page-11-photo-028.jpeg",
+        "page-11-photo-029.jpeg"
       ]
     },
     {
@@ -123,12 +123,12 @@ const STORY = {
       "title": "يووووووم مدينتي 💙",
       "text": "اول يوم امسك ايدك فيه 💙💙💙💙💙💙💙\n\n",
       "photos": [
-        "images/page-12-photo-030.jpeg",
-        "images/page-12-photo-031.jpeg",
-        "images/page-12-photo-032.jpeg",
-        "images/page-12-photo-033.jpeg",
-        "images/page-12-photo-034.jpeg",
-        "images/page-12-photo-035.jpeg"
+        "page-12-photo-030.jpeg",
+        "page-12-photo-031.jpeg",
+        "page-12-photo-032.jpeg",
+        "page-12-photo-033.jpeg",
+        "page-12-photo-034.jpeg",
+        "page-12-photo-035.jpeg"
       ]
     },
     {
@@ -137,8 +137,8 @@ const STORY = {
       "title": "Day 100 ",
       "text": "يوم من احلي ايامنا مع بعض اللي عمرنا مهننساها 💙\n",
       "photos": [
-        "images/page-13-photo-036.jpeg",
-        "images/page-13-photo-037.jpeg"
+        "page-13-photo-036.jpeg",
+        "page-13-photo-037.jpeg"
       ]
     },
     {
@@ -147,11 +147,11 @@ const STORY = {
       "title": "القناطر - طوخ 💙",
       "text": "يوم القناطر ويوم طوخ ....\n\nمهما حكينا لاي حد عن اللي حصل ف اليوم دا عمره ما هيصدق حتي صورنا انا مش لابس نفس الطقم \nلفينا القليوبيه كلها ف يوم واحد ",
       "photos": [
-        "images/page-14-photo-038.jpeg",
-        "images/page-14-photo-039.jpeg",
-        "images/page-14-photo-040.jpeg",
-        "images/page-14-photo-041.jpeg",
-        "images/page-14-photo-042.jpeg"
+        "page-14-photo-038.jpeg",
+        "page-14-photo-039.jpeg",
+        "page-14-photo-040.jpeg",
+        "page-14-photo-041.jpeg",
+        "page-14-photo-042.jpeg"
       ]
     },
     {
@@ -160,7 +160,7 @@ const STORY = {
       "title": "اول سينابون اكله من ايدك ",
       "text": "هتقولي عليا منافق 😂😂\nبس هحطها عشان كفايه تعبك ",
       "photos": [
-        "images/page-15-photo-043.jpeg"
+        "page-15-photo-043.jpeg"
       ]
     },
     {
@@ -169,7 +169,7 @@ const STORY = {
       "title": "ابو سن ومس ابو سن ",
       "text": "احلي ميداليتين من حبيبه قلبي وروحي وعيوني 💙💙💙💙💙\n\nدا اليوم اللي حطيناهم في مفاتيحنا ",
       "photos": [
-        "images/page-16-photo-044.jpeg"
+        "page-16-photo-044.jpeg"
       ]
     },
     {
@@ -178,9 +178,9 @@ const STORY = {
       "title": "يوم بنها",
       "text": "السلسله والخاتم وبس كده 💙",
       "photos": [
-        "images/page-17-photo-045.jpeg",
-        "images/page-17-photo-046.jpeg",
-        "images/page-17-photo-047.jpeg"
+        "page-17-photo-045.jpeg",
+        "page-17-photo-046.jpeg",
+        "page-17-photo-047.jpeg"
       ]
     },
     {
@@ -189,9 +189,9 @@ const STORY = {
       "title": "Day 200 ",
       "text": "نقطه التحول حرفياااااااااا ف العلاقه \nيوم سيتي سنتر الماظه ، واشترينا الموبايل وعملنا 7000 حاجه ويوم من احلي ايامنا برضو 💙💙💙💙",
       "photos": [
-        "images/page-18-photo-048.jpeg",
-        "images/page-18-photo-049.jpeg",
-        "images/page-18-photo-050.jpeg"
+        "page-18-photo-048.jpeg",
+        "page-18-photo-049.jpeg",
+        "page-18-photo-050.jpeg"
       ]
     },
     {
@@ -200,7 +200,7 @@ const STORY = {
       "title": "Our Fav Photo",
       "text": "احلي صوره خدناها سوي ف فايبس كان لازم احطلها تاريخ لوحدها 💙💙💙💙",
       "photos": [
-        "images/page-19-photo-051.jpeg"
+        "page-19-photo-051.jpeg"
       ]
     },
     {
@@ -209,9 +209,9 @@ const STORY = {
       "title": "احلي اكل من ايدك 💙💙💙",
       "text": "اليوم دا ادركت اني هاكل احلي اكل من ايدك حرفيااا\n\nاحلي مكرونه بشاميل واحلي سينابون كلته ف حياتي والله 💙💙💙\n",
       "photos": [
-        "images/page-20-photo-052.jpeg",
-        "images/page-20-photo-053.jpeg",
-        "images/page-20-photo-054.jpeg"
+        "page-20-photo-052.jpeg",
+        "page-20-photo-053.jpeg",
+        "page-20-photo-054.jpeg"
       ]
     },
     {
@@ -220,17 +220,17 @@ const STORY = {
       "title": "يوم وسط البلد",
       "text": "نحكي ايه ولا ايه ولا ايه 😂😂💙💙\nمن اول تذاكر المترو لحد الروف اللي الراجل زعلقنا ع السلم دا ولحد عم لامؤخذه اللي هو لا يجوز \nلحد الراجل بتاع المرج \nلحد قعدتنا الرايقه انا وانتي واول مره افتحلك قلبي بالشكل دا واقولك حاجات جوايا مكنتش فتحتهالك قبل كده كانت ف اليوم دا \nبحبببببببببك اقسم بالله ",
       "photos": [
-        "images/page-21-photo-055.jpeg",
-        "images/page-21-photo-056.jpeg",
-        "images/page-21-photo-057.jpeg",
-        "images/page-21-photo-058.jpeg",
-        "images/page-21-photo-059.jpeg",
-        "images/page-21-photo-060.jpeg",
-        "images/page-21-photo-061.jpeg",
-        "images/page-21-photo-062.jpeg",
-        "images/page-21-photo-063.jpeg",
-        "images/page-21-photo-064.jpeg",
-        "images/page-21-photo-065.jpeg"
+        "page-21-photo-055.jpeg",
+        "page-21-photo-056.jpeg",
+        "page-21-photo-057.jpeg",
+        "page-21-photo-058.jpeg",
+        "page-21-photo-059.jpeg",
+        "page-21-photo-060.jpeg",
+        "page-21-photo-061.jpeg",
+        "page-21-photo-062.jpeg",
+        "page-21-photo-063.jpeg",
+        "page-21-photo-064.jpeg",
+        "page-21-photo-065.jpeg"
       ]
     },
     {
@@ -239,12 +239,12 @@ const STORY = {
       "title": "Day 250",
       "text": "ربنا يديمك ياسوسو ف حياتي ويخليكي ليا ع كل لحظه حلوه بعيشها معاكي ياحبيبتي 💙💙",
       "photos": [
-        "images/page-22-photo-066.jpeg",
-        "images/page-22-photo-067.jpeg",
-        "images/page-22-photo-068.jpeg",
-        "images/page-22-photo-069.jpeg",
-        "images/page-22-photo-070.jpeg",
-        "images/page-22-photo-071.jpeg"
+        "page-22-photo-066.jpeg",
+        "page-22-photo-067.jpeg",
+        "page-22-photo-068.jpeg",
+        "page-22-photo-069.jpeg",
+        "page-22-photo-070.jpeg",
+        "page-22-photo-071.jpeg"
       ]
     }
   ]
