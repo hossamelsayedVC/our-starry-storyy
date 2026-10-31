@@ -1,6 +1,6 @@
 const STORY = {
   "portalTitle": "My Lotus 💙",
-  "portalSubtitle": "Tow suns , one for the whole world , one for me only.",
+  "portalSubtitle": "Two suns , one for the whole world , one for me only.",
   "portalButton": "✦ Open Our Story ✦",
   "endingTitle": "Our forever is just beginning ✨",
   "endingText": "And I would choose you in every universe.",
